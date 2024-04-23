@@ -10,7 +10,7 @@ Welcome to the repository containing the solved tasks for the Object-oriented pr
 
 ## About
 
-This repository contains solutions to tasks assigned during the Object-oriented programming course. Each task is designed to reinforce concepts such as and other fundamental principles of structured programming.
+This repository contains solutions to tasks assigned during the Object-oriented programming course. Each task is designed to reinforce concepts such as Polymorphism, Abstraction, Encapsulation, Inheritance and other fundamental principles of Object oriented programming.
 
 ## Usage
 
@@ -19,7 +19,7 @@ To use these solutions:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/structured-programming-tasks.git
+   git clone https://github.com/zhivko-kocev/object-oriented-programming.git
    ```
 
 2. Navigate to the directory containing the desired solution.
